@@ -1,6 +1,7 @@
  move my hypr and wofi to ~/.config/
 
 sudo pacman -S cava
+
 sudo pacman -S fastfetch
 
 i did it based on this configuration: https://github.com/end-4/dots-hyprland
