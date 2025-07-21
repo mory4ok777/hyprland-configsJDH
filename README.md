@@ -1,4 +1,5 @@
  move my hypr and wofi to ~/.config/
+
 sudo pacman -S cava
 sudo pacman -S fastfetch
 
