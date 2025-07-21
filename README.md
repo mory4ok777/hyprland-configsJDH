@@ -1,2 +1,1 @@
-# hyprland-configsJDH
-install arch with hyprland and move my hypr to 
+ move my hypr and wofi to ~/.config/
